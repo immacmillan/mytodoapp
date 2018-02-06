@@ -81,5 +81,8 @@
       "no-undef": 0,
       "no-unused-vars": 0
     }
+  },
+  "dependencies": {
+    "angular-local-storage": "^0.7.1"
   }
 }
